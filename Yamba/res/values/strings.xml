@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yamba</string>
+    <string name="update_status">Update Status</string>
+    <string name="enter_status_update_hint">enter status update</string>
+    <string name="btn_update_status">Update</string>
+    
+    <string name="action_settings">Action Settings</string>
+
+</resources>
